@@ -1,4 +1,4 @@
 distributedmemcached
 ====================
 
-构建分布式缓存系统
+测试分布式Memcached缓存系统
