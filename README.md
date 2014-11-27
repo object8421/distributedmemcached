@@ -1,7 +1,7 @@
 distributedmemcached  twemproxy README译文
 ====================
 
-测试分布式Memcached缓存系统
+测试分布式Memcached缓存系统(仅供个人参考)
 
 # twemproxy (nutcracker) [![Build Status](https://secure.travis-ci.org/twitter/twemproxy.png)](http://travis-ci.org/twitter/twemproxy)
 
